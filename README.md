@@ -10,6 +10,7 @@ This application uses Depedency Injection
 1. [Wikipedia](https://en.wikipedia.org/wiki/Dependency_injection)
 2. [A quick intro to Dependency Injection: what it is, and when to use it](https://www.freecodecamp.org/news/a-quick-intro-to-dependency-injection-what-it-is-and-when-to-use-it-7578c84fa88f/)
 3. [Dependency Injection in Go](https://www.nerd.vision/post/dependency-injection-in-go)
+4. [The many flavours of dependency injection in Golang](https://blog.gojekengineering.com/the-many-flavours-of-dependency-injection-in-go-25aa070d79a0)
 <br>
 <br>
 <br>
